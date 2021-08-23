@@ -133,6 +133,17 @@ footer{
     font-size: .8rem;
 }
 
+.azul{
+    color: blue;
+
+}
+
+
+.vermelho{
+    color:tomato;
+
+}
+
 @media (max-width: 768px){
     #categorias {
         display: none;
